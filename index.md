@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome
 
 this page just as a menu for my repositories, for quickly search.
 
